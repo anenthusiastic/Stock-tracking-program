@@ -27,20 +27,25 @@ In the project, I tried to create tables that may be necessary for the stock fol
 # 6) Screens of Application
 
 Login Screen : 
+
 ![image](https://user-images.githubusercontent.com/67736718/125981556-4520574b-9f16-454c-a3bd-62d3ea421422.png)
 
 
 Main Screen : 
+
 ![image](https://user-images.githubusercontent.com/67736718/125981629-18bb2722-d3f1-44d3-90c8-2e9d88b1055b.png)
 
 Products Screen :
+
 ![image](https://user-images.githubusercontent.com/67736718/125981653-eddebab1-a7d1-4287-8c52-2ae0da0a3029.png)
 
 Stock Screen :
+
 ![image](https://user-images.githubusercontent.com/67736718/125981686-be0db185-3b57-4948-a746-e61378fa7829.png)
 
 
 Sale Records Screens :
+
 ![image](https://user-images.githubusercontent.com/67736718/125981784-03ac8c78-9b8b-4eb4-856b-3bea575d3c3d.png)
 
 
@@ -48,5 +53,6 @@ Sale Records Screens :
 
 
 Customers Infos Screen :
+
 ![image](https://user-images.githubusercontent.com/67736718/125981875-3b6d902c-9718-4b70-a7e3-fec04686de39.png)
 
